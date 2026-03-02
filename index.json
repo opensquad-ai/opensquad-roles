@@ -9,9 +9,11 @@
     "category": "dev",
     "created_at": "2026-03-02",
     "likes": 18,
-    "icon_url": null,
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/backend_engineer.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+    "icon_url": "https://placehold.co/400x160/6366f1/ffffff?text=Backend+Engineer",
+    "download_urls": [
+      "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/roles/backend_engineer.md"
+    ],
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
   {
     "id": "product_manager",
@@ -23,9 +25,11 @@
     "category": "pm",
     "created_at": "2026-03-02",
     "likes": 21,
-    "icon_url": null,
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/product_manager.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+    "icon_url": "https://placehold.co/400x160/10b981/ffffff?text=Product+Manager",
+    "download_urls": [
+      "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/roles/product_manager.md"
+    ],
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
   {
     "id": "devops_engineer",
@@ -37,8 +41,10 @@
     "category": "ops",
     "created_at": "2026-03-02",
     "likes": 14,
-    "icon_url": null,
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/devops_engineer.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+    "icon_url": "https://placehold.co/400x160/f59e0b/ffffff?text=DevOps+Engineer",
+    "download_urls": [
+      "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/roles/devops_engineer.md"
+    ],
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   }
 ]
