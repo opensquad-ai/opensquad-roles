@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-03-02T06:03:24Z",
+  "updated_at": "2026-03-02T00:00:00Z",
   "plugins": {
-    "backend_engineer": {
-      "count": 1,
-      "voters": [
-        "fb90cd148272249b"
-      ]
-    },
-    "product_manager": {
-      "count": 0,
-      "voters": []
-    },
-    "devops_engineer": {
-      "count": 0,
-      "voters": []
-    }
+    "backend_engineer": {"count": 0},
+    "product_manager": {"count": 0},
+    "devops_engineer": {"count": 0}
   }
 }
