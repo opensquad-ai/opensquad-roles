@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T06:44:44Z",
+  "updated_at": "2026-03-02T06:44:55Z",
   "plugins": {
     "backend_engineer": {
       "count": 0
@@ -8,7 +8,7 @@
       "count": 1
     },
     "devops_engineer": {
-      "count": 0
+      "count": 1
     }
   }
 }
