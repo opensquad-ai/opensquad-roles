@@ -1,8 +1,14 @@
 {
-  "updated_at": "2026-03-02T00:00:00Z",
+  "updated_at": "2026-03-02T06:44:44Z",
   "plugins": {
-    "backend_engineer": {"count": 0},
-    "product_manager": {"count": 0},
-    "devops_engineer": {"count": 0}
+    "backend_engineer": {
+      "count": 0
+    },
+    "product_manager": {
+      "count": 1
+    },
+    "devops_engineer": {
+      "count": 0
+    }
   }
 }
