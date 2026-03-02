@@ -1,0 +1,8 @@
+{
+  "updated_at": "2026-03-02T00:00:00Z",
+  "plugins": {
+    "backend_engineer": {"count": 0, "voters": []},
+    "product_manager": {"count": 0, "voters": []},
+    "devops_engineer": {"count": 0, "voters": []}
+  }
+}

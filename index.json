@@ -1,0 +1,44 @@
+[
+  {
+    "id": "backend_engineer",
+    "name": "后端工程师",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "专注后端开发的工程师角色，精通 Python/Go API 设计、数据库优化、微服务架构，以稳定性和可维护性为第一原则，拒绝无测试的核心业务代码。",
+    "tags": ["backend", "python", "api", "database", "microservice"],
+    "category": "dev",
+    "created_at": "2026-03-02",
+    "likes": 18,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/backend_engineer.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+  },
+  {
+    "id": "product_manager",
+    "name": "产品经理",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "软件产品经理角色，负责需求澄清、Sprint 规划、任务分解、进度跟踪和交付协调，用结构化 PRD 和标准消息格式驱动团队高效推进。",
+    "tags": ["product", "pm", "requirements", "agile", "coordination"],
+    "category": "pm",
+    "created_at": "2026-03-02",
+    "likes": 21,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/product_manager.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+  },
+  {
+    "id": "devops_engineer",
+    "name": "DevOps 工程师",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "DevOps 工程师角色，专注 CI/CD 流水线、容器化部署、基础设施即代码和系统可观测性，以自动化消除人工操作风险，生产变更必须经过流水线。",
+    "tags": ["devops", "cicd", "docker", "kubernetes", "infrastructure", "monitoring"],
+    "category": "ops",
+    "created_at": "2026-03-02",
+    "likes": 14,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-roles/main/devops_engineer.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-roles"
+  }
+]
